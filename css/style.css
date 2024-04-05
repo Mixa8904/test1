@@ -1,0 +1,28 @@
+/*
+selector {
+    style: value;
+}
+*/
+
+p {
+    color: red;
+    font-size: 48px;
+}
+
+a {
+    border: 1px solid red;
+}
+
+.second_p {
+    width: 350px;
+    height: 100px;
+}
+
+a {
+    height: 500px;
+}
+
+.green_p {
+    color: greenyellow;
+ border: 48px;
+}
